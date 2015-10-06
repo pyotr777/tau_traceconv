@@ -2,4 +2,5 @@
 !.gitignore
 !tau2slog2
 !traceconv.sh
+!jumpshot
 !README*
